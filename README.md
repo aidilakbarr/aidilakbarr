@@ -99,6 +99,11 @@
 
 ---
 
+💡 Dev Philosophy
+“Clean code is not just about aesthetics — it's about empathy for the next developer, even if that developer is your future self.”
+
+“Every line of code should have a reason to exist. Otherwise, it's just noise.”
+
 ### 📢 Connect with Me
 
 <p align="left">
