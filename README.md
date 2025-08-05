@@ -117,25 +117,3 @@
 🌟 Jangan lupa kasih ⭐ ke project yang kamu suka ya!  
 Terima kasih sudah mampir ke profil saya 🙏
 
-<!-- Tambahkan di README.md Anda (gunakan raw HTML) -->
-<div align="center">
-  <svg width="80%" height="120">
-    <text x="50%" y="50%" text-anchor="middle" fill="#fff" font-size="24px" font-family="monospace">
-      Coding . . . Testing . . . Debugging . . . Deploying 🚀
-    </text>
-    <style>
-      text {
-        animation: move 6s infinite;
-      }
-
-      @keyframes move {
-        0% { fill: #f39c12; }
-        25% { fill: #3498db; }
-        50% { fill: #2ecc71; }
-        75% { fill: #9b59b6; }
-        100% { fill: #f39c12; }
-      }
-    </style>
-  </svg>
-</div>
-
