@@ -74,14 +74,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aidilakbarr&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aidilakbarr&theme=radical" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidilakbarr&layout=compact&theme=radical" width="500"/>
-</p>
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true&theme=radical&hide_title=true&hide_border=true&hide_rank=false&card_width=420" width="420" height="200" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namakamu&layout=compact&theme=radical&hide_border=true&card_width=420" width="420" height="200" /> </td> </tr> <tr> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=namakamu&theme=radical&hide_border=true&card_width=420" width="420" height="200" /> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namakamu&theme=radical" width="420" height="200" /> </td> </tr> </table>
 
 ---
 
