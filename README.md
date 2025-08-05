@@ -68,13 +68,21 @@
 - 🎯 Disiplin & Bertanggung Jawab  
 - 📢 Komunikasi Efektif  
 - 🤝 Kolaborasi Tim & Mandiri  
-- 🧩 Problem Solving & Adaptif  
+- 🧹 Problem Solving & Adaptif  
 
 ---
 
 ## 📊 GitHub Stats
 
-<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true&theme=radical&hide_title=true&hide_border=true&hide_rank=false&card_width=420" width="420" height="200" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namakamu&layout=compact&theme=radical&hide_border=true&card_width=420" width="420" height="200" /> </td> </tr> <tr> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=namakamu&theme=radical&hide_border=true&card_width=420" width="420" height="200" /> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namakamu&theme=radical" width="420" height="200" /> </td> </tr> </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aidilakbarr&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidilakbarr&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aidilakbarr&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidilakbarr&theme=radical" width="48%" />
+</p>
 
 ---
 
@@ -87,7 +95,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 📢 Connect with Me
 
 <p align="left">
   <a href="mailto:akbaraidil464@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -97,5 +105,5 @@
 
 ---
 
-⭐️ Jangan lupa kasih ⭐️ ke project yang kamu suka ya!  
+🌟 Jangan lupa kasih ⭐ ke project yang kamu suka ya!  
 Terima kasih sudah mampir ke profil saya 🙏
