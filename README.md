@@ -13,7 +13,7 @@
 🎓 I’m a passionate web developer who loves building clean, user-centric, and scalable applications.  
 🧠 I continuously learn and explore modern tech to solve real-world problems.  
 🤝 I’m open to collaboration on exciting projects and remote work opportunities.  
-📍 Based in **Kendari, Indonesia**  
+📍 Based in **Kendari, Indonesia**
 
 ---
 
@@ -75,11 +75,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aidilakbarr&show_icons=true&theme=radical" width="480"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aidilakbarr&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aidilakbarr&theme=radical" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidilakbarr&layout=compact&theme=radical" width="480"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidilakbarr&layout=compact&theme=radical" width="500"/>
 </p>
 
 ---
