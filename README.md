@@ -1,75 +1,109 @@
-<h1 align="center">Hi 👋, I'm [Your Name Here]</h1>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Aidil Akbar</h1>
+<h3 align="center">Web Developer | Clean Code Enthusiast | UI/UX Passionate</h3>
+
 <p align="center">
-  A passionate full-stack web developer from Indonesia 🇮🇩
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Frontend+%7C+Backend+Developer;Love+React%2C+Next%2C+Laravel%2C+Vue+Inertia;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
+---
+
+### 🚀 About Me
+
+🎓 I’m a passionate web developer who loves building clean, user-centric, and scalable applications.  
+🧠 I continuously learn and explore modern tech to solve real-world problems.  
+🤝 I’m open to collaboration on exciting projects and remote work opportunities.  
+📍 Based in **Kendari, Indonesia**
 
 ---
 
 ### 💻 Tech Stack
 
-#### 🚀 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Sass](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![Inertia.js](https://img.shields.io/badge/-Inertia.js-1a202c?style=flat&logo=inertia&logoColor=white)
+#### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="35"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Inertia.js-1e1e1e?style=for-the-badge&logo=javascript&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" height="35"/>
+</p>
 
-#### 🧩 Backend & Fullstack
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+#### 🛠️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/OAuth-3C3C3C?style=for-the-badge&logo=oauth&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/RESTful_API-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="35"/>
+</p>
 
-#### 🛠 Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![NPM](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
-
-#### 🗃️ Database & API
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
-![Sequelize](https://img.shields.io/badge/-Sequelize-03AFEF?style=flat&logo=sequelize)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST-FF6C37?style=flat&logo=rest&logoColor=white)
-![OAuth2](https://img.shields.io/badge/-OAuth2-34495e?style=flat)
-
----
-
-### 🔥 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
-</div>
+#### 🧰 Tools & Others
+<p>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" height="35"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35"/>
+</p>
 
 ---
 
 ### 🧠 Soft Skills
-- 💡 Disiplin
-- 🧩 Bertanggung jawab
-- 🗣️ Komunikasi yang baik
-- 🤝 Kerja Tim & Mandiri
+- 🎯 Disiplin & Bertanggung Jawab  
+- 📢 Komunikasi Efektif  
+- 🤝 Kolaborasi Tim & Mandiri  
+- 🧹 Problem Solving & Adaptif  
 
 ---
 
-### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourusername.github.io/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aidilakbarr&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidilakbarr&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aidilakbarr&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidilakbarr&theme=radical" width="48%" />
+</p>
 
 ---
 
-### 🧭 Motto
-> "Code with passion, build with purpose."
+### 🌐 GitHub Pages / Portfolio
 
+📌 Saya juga membangun **GitHub Pages** pribadi sebagai showcase proyek dan portofolio saya:
+
+👉 [🔗 aidilakbarr.github.io](https://aidilakbarr.github.io)  
+💡 Responsive design, built with TailwindCSS, and highlights selected works.
+
+---
+
+### 📢 Connect with Me
+
+<p align="left">
+  <a href="mailto:akbaraidil464@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aidil-akbar-70748a2a3"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://aidilakbarr.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+</p>
+
+---
+
+🌟 Jangan lupa kasih ⭐ ke project yang kamu suka ya!  
+Terima kasih sudah mampir ke profil saya 🙏
