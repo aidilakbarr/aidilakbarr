@@ -114,6 +114,3 @@
 
 ---
 
-🌟 Jangan lupa kasih ⭐ ke project yang kamu suka ya!  
-Terima kasih sudah mampir ke profil saya 🙏
-
