@@ -64,12 +64,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aidilakbarr&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidilakbarr&theme=radical" alt="Streak Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidilakbarr&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
+---
+
+### 🌐 GitHub Pages / Portofolio
+
+📌 Saya juga membangun **GitHub Pages** pribadi sebagai showcase proyek dan portofolio saya:
+
+👉 [🔗 Lihat Halaman GitHub Pages](https://your-username.github.io/)  
+Tampilan responsive, terintegrasi dengan TailwindCSS, dan menampilkan proyek unggulan!
 
 ---
 
